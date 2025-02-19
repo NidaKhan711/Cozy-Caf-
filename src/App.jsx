@@ -5,12 +5,14 @@ import About from './Components/About'
 import Menu from './Components/Menu'
 import Customer from './Components/Cutomer'
 import ContactFooter from './Components/Footer'
+import Services from './Components/Services'
 
 const App = () => {
   return (
     <>
     <Navbar/>
     <Hero/>
+    <Services/>
     <About/>
     <Menu/>
     <Customer/>

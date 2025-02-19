@@ -64,7 +64,7 @@ const About = () => {
   }, []);
 
   return (
-    <section className="bg-yellow-500 text-black py-20 px-10">
+    <section className="bg-yellow-500 text-black py-20 px-10" id="about"> 
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between">
         {/* Text Content */}
         <div className="md:w-1/2 space-y-6">

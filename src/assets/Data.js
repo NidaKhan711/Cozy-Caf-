@@ -21,3 +21,10 @@ export const img2img=img2
     { name: "Macchiato", description: "Bold espresso with a dash of milk", emoji: "🥄", image:macca }
   ];
   export default menuItems
+
+  export const services = [
+    { title: "Freshly Brewed Coffee", description: "Enjoy our finest selection of freshly brewed coffee.", icon: "☕" },
+    { title: "Delicious Snacks", description: "Pair your coffee with our delicious bakery items.", icon: "🥐" },
+    { title: "Cozy Ambience", description: "Relax in our beautifully designed cozy café space.", icon: "🛋️" },
+    { title: "Fast Delivery", description: "Get your favorite coffee delivered to your doorstep.", icon: "🚀" },
+  ];

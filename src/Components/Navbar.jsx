@@ -60,25 +60,25 @@ const Navbar = () => {
               Home
             </a>
             <a
-              href="/about"
+              href="#about"
               className="text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition duration-300"
             >
               About
             </a>
             <a
-              href="/services"
+              href="#services"
               className="text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition duration-300"
             >
               Services
             </a>
             <a
-              href="/menu"
+              href="#menu"
               className="text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition duration-300"
             >
               Menu
             </a>
             <a
-              href="/contact"
+              href="#contact"
               className="text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition duration-300"
             >
               Contact
@@ -98,25 +98,25 @@ const Navbar = () => {
               Home
             </a>
             <a
-              href="/about"
+              href="#about"
               className="block text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-base font-medium transition duration-300"
             >
               About
             </a>
             <a
-              href="/services"
+              href="#services"
               className="block text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-base font-medium transition duration-300"
             >
               Services
             </a>
             <a
-              href="/menu"
+              href="#menu"
               className="block text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-base font-medium transition duration-300"
             >
               Menu
             </a>
             <a
-              href="/contact"
+              href="#contact"
               className="block text-gray-200 hover:text-yellow-400 px-3 py-2 rounded-md text-base font-medium transition duration-300"
             >
               Contact

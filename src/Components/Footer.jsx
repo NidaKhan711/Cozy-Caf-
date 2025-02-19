@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const ContactFooter = () => {
   return (
-    <footer className="bg-gradient-to-b from-gray-800 to-gray-900 text-white py-16 px-6">
+    <footer className="bg-gradient-to-b from-gray-800 to-gray-900 text-white py-16 px-6"id="contact">
       <motion.div 
         className="max-w-5xl mx-auto text-center"
         initial={{ opacity: 0, y: 50 }}
