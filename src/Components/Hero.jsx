@@ -33,9 +33,9 @@ const Hero = () => {
         <p className="text-lg md:text-xl mt-4 hero-text">
           Enjoy freshly brewed coffee with rich flavors and a comforting aroma. Start your day the right way!
         </p>
-        <button className="mt-6 px-6 py-3 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-600 transition hero-button">
+        <a href="#menu"><button herf='#menu' className="mt-6 px-6 py-3 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-600 transition hero-button">
           Explore Menu
-        </button>
+        </button></a>
       </div>
     </section>
   );

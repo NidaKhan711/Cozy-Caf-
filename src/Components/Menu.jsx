@@ -21,7 +21,7 @@ const CoffeeMenu = () => {
       style={{ backgroundImage: "url('/public/meenu.jpg')" }}
     >
       <div className="max-w-4xl mx-auto text-center">
-        <h2 className="text-4xl font-bold mb-6 text-yellow-400">Our Special Brews</h2>
+        <h2 className="text-4xl font-bold mb-6 text-yellow-400">Our Special Coffee</h2>
         <div ref={menuRef} className="grid md:grid-cols-2 gap-6">
           {menuItems.map((item, index) => (
             <div
@@ -34,9 +34,7 @@ const CoffeeMenu = () => {
             </div>
           ))}
         </div>
-        <button className="mt-8 px-6 py-3 bg-yellow-400 text-black font-bold rounded-lg transition duration-300 hover:bg-yellow-200">
-          View Full Menu
-        </button>
+        
       </div>
     </section>
   );

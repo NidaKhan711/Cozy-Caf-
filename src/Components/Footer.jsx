@@ -89,7 +89,7 @@ const ContactFooter = () => {
         {/* 🔥 Footer Bottom Line */}
         <div className="border-t border-gray-700 mt-14 pt-8">
           <p className="text-gray-400 text-sm">
-            &copy; 2025 Coffee Brew Masters. All rights reserved.
+            &copy; 2025 Cozy Café Masters. All rights reserved.
           </p>
         </div>
       </motion.div>
