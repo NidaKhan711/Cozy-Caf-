@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-  git clone: https://github.com/NidaKhan711/Cozy-Caf-.git
+    git clone: https://github.com/NidaKhan711/Cozy-Caf-.git
    ```
 2. Navigate to the project folder:
    ```sh
