@@ -38,7 +38,8 @@ To run this project locally, follow these steps:
    ```
 
 ## 📸 Screenshots
-*(Add images of your website UI here if available)*
+![cofee](https://github.com/user-attachments/assets/2a656fe4-5736-403b-a08b-c37eda1caa88)
+
 
 ## ✨ Contributing
 Feel free to contribute by submitting issues or pull requests.
